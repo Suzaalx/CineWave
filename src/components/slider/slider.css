@@ -1,0 +1,60 @@
+.slick-slider,
+.slick-list,
+.slick-track {
+  height: 80%;
+}
+
+.slick-arrow {
+  z-index: 10;
+  padding: 20px;
+  border-radius: 50%;
+  overflow: hidden;
+  
+  
+
+  
+}
+.slick-arrow::before{
+        font-size: 20px;
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 5px;
+        
+      
+}
+
+.slick-next,
+.slick-prev {
+  width: 20px;
+  height: 20px;
+  
+}
+
+.slick-next:before,
+.slick-prev:before {
+  font-size: 28px !important;
+  @apply hidden md:block
+  
+}
+
+.slick-next {
+  right: 5% !important;
+  
+}
+
+.slick-prev {
+  left: 5% !important;
+}
+
+.slick-dots {
+  bottom: 10px;
+
+}
+button:before {
+      width: 15px !important;
+      height: 15px !important;
+      font-size: 5px !important;
+      color: #fff !important;
+    }
+
