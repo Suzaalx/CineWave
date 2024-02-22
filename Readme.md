@@ -58,6 +58,7 @@ For more information on React and TailwindCSS, visit their respective documentat
 
 ## Examples
 *To be added: screenshots or code snippets demonstrating the application in use.*
+(public/readme.png)
 
 ## Troubleshooting
 For any issues regarding the project setup or execution, ensure all dependencies are correctly installed and that your environment is set up according to the React and TailwindCSS guidelines.
