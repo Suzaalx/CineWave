@@ -57,8 +57,7 @@ No additional configuration needed to run CineVerse locally. Ensure you have an 
 For more information on React and TailwindCSS, visit their respective documentation. For API usage, refer to [The Movie Database (TMDB) API documentation](https://developers.themoviedb.org/3).
 
 ## Examples
-*To be added: screenshots or code snippets demonstrating the application in use.*
-()
+
 ![project homepage](public/readme.png)
 
 
