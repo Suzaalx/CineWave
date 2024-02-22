@@ -21,13 +21,16 @@ https://github.com/Suzaalx/CineVerse.git
 
 
 2. Navigate to the project directory:
-  cd CineVerse
+
+  ```cd CineVerse
  
 3. Install the dependencies:
-  npm install 
+
+  ```npm install 
 
 4. start the application
-  npm run dev 
+
+  ```npm run dev 
 
 5. open the local server in your browser
 
