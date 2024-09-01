@@ -1,4 +1,4 @@
-# CineVerse
+# CineWave
 
 ## Introduction
 CineVerse is a dynamic movie database website that allows users to explore a wide range of movies and TV series. Built with React and styled using TailwindCSS, it provides an engaging user experience with data powered by The Movie Database (TMDB) API. Users can discover trending and popular movies, view ratings, read reviews, and get detailed information about movie casts and descriptions.
@@ -17,7 +17,7 @@ CineVerse is a dynamic movie database website that allows users to explore a wid
 
 ## Installation
 1. Clone the repository:
-https://github.com/Suzaalx/CineVerse.git
+https://github.com/Suzaalx/CineWave.git
 
 
 2. Navigate to the project directory:
